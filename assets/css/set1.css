@@ -30,7 +30,6 @@
 /* Common style */
 .grid figure {
 	position: relative;
-	float: left;
 	overflow: hidden;
 	margin: 10px 1%;
 /*	min-width: 320px;*/
@@ -105,7 +104,7 @@
 
 #innie {
 	color: #a0d6b4;
-} 
+}
 
 #outtie {
 	color: crimson;
