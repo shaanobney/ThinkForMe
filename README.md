@@ -1,5 +1,4 @@
-Read Me
--------------
+
 # [Think For Me](http://glacial-coast-86816.herokuapp.com/ "Think For Me")
 
 **Overview**
