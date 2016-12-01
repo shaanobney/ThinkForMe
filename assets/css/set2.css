@@ -1,9 +1,24 @@
+img {
+    width: 100%;
+    height: auto;
+}
+
 .grid {
 	position: relative;
 	clear: both;
 	margin: 0 auto;
 	padding: 1em 0 4em;
 	max-width: 1000px;
+	list-style: none;
+	text-align: center;
+}
+
+.grid2 {
+	position: relative;
+	clear: both;
+	margin: 0 auto;
+	padding: 1em 0 4em;
+	max-width: 900px;
 	list-style: none;
 	text-align: center;
 }

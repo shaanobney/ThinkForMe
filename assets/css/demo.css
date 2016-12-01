@@ -111,8 +111,18 @@ section {
   display: inline-table;
 }
 
+.wrapper {
+  width: 100%;
+  margin: 10px auto;
+  position: relative;
+  text-align:center;
+}
+
 #foodie-detail {
   text-align: center;
+  display:inline-block;
+  float: left;
+  margin-left: 12%;
 }
 
 #moviechoice {
@@ -129,15 +139,17 @@ section {
 
 .movie-detail {
 	text-align: center;
+  font-size: 10px;
+  display:inline-block;
 }
 
 .movie-detail h1 {
-	font-size: 3em;
+	font-size: 2em;
 	font-family: title;
 }
 
 .movie-detail img {
-	max-width: 100%;
+	max-width: 300px;
 	height: auto;
 	vertical-align: bottom;
 	box-sizing: border-box;
@@ -155,10 +167,9 @@ section {
 }
 
 #boner {
-	height:100%;
-    margin:0;
-    padding:0;
-    text-align:center;
+  margin:0;
+  padding:0;
+  text-align:center;
 }
 
 #left{
